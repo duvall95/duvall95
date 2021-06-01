@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @duvall95
 - 👀 I’m interested in learning to code
-- 🌱 I’m currently learning the basics
+- 🌱 I’m currently learning the basics with CS50x
 - 💞️ I’m looking to collaborate on something in the future
 
 <!---
